@@ -58,7 +58,8 @@ jodi x soman 10 hoy {
 ---
 
 ## 🚀 How to Run
-
+* Install MSYS and set env.
+  
 1. Clone the repository:
 
    ```bash
