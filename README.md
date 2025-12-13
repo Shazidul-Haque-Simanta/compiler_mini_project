@@ -1,3 +1,8 @@
+⭐ If this project helped you understand compiler concepts, consider giving it a star!
+
+---
+
+
 # Compiler Mini Project
 
 A **mini compiler project** developed for **academic purposes**, demonstrating core concepts of **compiler design** such as lexical analysis, parsing, and basic semantic handling using a custom, Bangla-inspired programming syntax.
