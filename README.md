@@ -104,9 +104,12 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## 👤 Author
 
-**Shazidul Haque Simanta**
+Shazidul Haque Simanta
+
 Daffodil International University
-Batch : 63
+
+Batch: 63
+
 Department of Computer Science & Engineering
 
 ---
