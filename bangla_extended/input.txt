@@ -1,0 +1,15 @@
+assign x 10;
+assign y 5;
+
+print x যোগ y;
+print x গুন y;
+
+যদি x বড় y তারপর
+    print x;
+কিন্তু
+    print y;
+শেষ
+
+যদি y সমান 5 তারপর
+    print 100;
+শেষ
